@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Banner from "../../assets/Oursolutions.png";
+import Banner from "../../assets/img/Oursolutions.png";
 import { Link } from "react-router-dom";
 import Arrow from "../../assets/arrow.svg";
 import standHead from '../../assets/img/accordtop.png'
