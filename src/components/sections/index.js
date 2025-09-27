@@ -1,0 +1,14 @@
+export { default as AboutHome } from './AboutHome';
+export { default as BenefitsHome } from './BenefitsHome';
+export { default as BrochureHome } from './BrochureHome';
+export { default as Button } from './Button';
+export { default as CertificationSection } from './CertificationSection';
+export { default as ClientSection } from './ClientSection';
+export { default as CustomPointer } from './CustomPointer';
+export { default as ElevatorButton } from './ElevatorButton';
+export { default as FaqSection } from './FaqSection';
+export { default as HeroBanner } from './HeroBanner';
+export { default as OurSolution } from './OurSolution';
+export { default as ProductSection } from './ProductSection';
+export { default as TestimonialSection } from './TestimonialSection';
+export { default as VideoSection } from './VideoSection';
