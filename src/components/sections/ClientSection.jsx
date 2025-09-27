@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import clientBg from "../../assets/clients.png";
+// import clientBg from "../../assets/clients.png";
+import clientBg from "../../assets/img/clients.png";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay } from "swiper/modules";
 import "swiper/css";
